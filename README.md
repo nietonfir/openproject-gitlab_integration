@@ -1,7 +1,7 @@
 # OpenProject Gitlab Integration Plugin
 
-FIXME Add description and check issue tracker link below
+This plugin adds Gitlab webhook support to OpenProject for updating work packages accordingly.
 
 ## Issue Tracker
 
-https://www.openproject.org/projects/gitlab-integration/work_packages
+https://github.com/nietonfir/openproject-gitlab_integration/issues
