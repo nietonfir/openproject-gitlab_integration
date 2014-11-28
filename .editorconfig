@@ -5,7 +5,10 @@ root = true
 [*]
 end_of_line = LF
 insert_final_newline = true
+trim_trailing_whitespace = true
 charset = utf-8
 indent_style = space
-indent_size = 4
+indent_size = 2
 
+[*.{sh,markdown,md}]
+indent_size = 4
